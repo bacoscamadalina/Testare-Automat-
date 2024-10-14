@@ -32,4 +32,10 @@ Acest repository conține toate materialele de curs, temele și exercițiile pra
 
 1. Clonează repository-ul:
    ```bash
-   git clone https://github.com/bacoscamadalina/Testare-Automata
+   % git clone https://github.com/bacoscamadalina/Testare-Automata
+
+2. Install the required dependencies
+    ```
+   % pip install -r requirements.txt
+   
+3. Run the Python scripts
